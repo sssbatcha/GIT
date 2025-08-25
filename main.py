@@ -1,7 +1,1 @@
-print('Hellow')
-a=int(input())
-
-if a%2==0:
-    print("Even")
-else:
-    print('odd')
+print("Guess a number 1 to 10,00,000")
